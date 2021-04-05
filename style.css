@@ -1,0 +1,31 @@
+
+body {width: 80%;
+    margin: auto;}
+
+    header{background-color:#EBB6B0;}
+    
+    header img {width: 150px; }
+
+    header nav { background-color:#EBB6B0;
+    text-align: center; float:right;  border: 4px; border-radius: 15cm; word-spacing: 1.5cm;
+    margin-bottom: 20px; margin-top: 20px; font-size: 20px;}
+
+    #heroimg{ width:100%; margin-top: 25px; margin-bottom: 25px;}
+
+    section p {display: inline-block; font-style: oblique; font-weight: bold;}
+    section {background-color:#EBB6B0;}
+
+    article ul { padding-top: 40px; padding-bottom: 40px;
+        font-size: 25px;
+        text-align: left; }
+        article p{display: inline-block; font-style: oblique; font-weight: bold;}
+
+form label {color: antiquewhite; text-align: center; font-size: 25px; color: black;
+ display: inline-block; }
+
+  
+          
+   footer {
+  text-align: center;
+  background-color: #664F4D;
+  color: #EBC9E2;}

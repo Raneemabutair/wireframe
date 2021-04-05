@@ -25,7 +25,7 @@ var numberofrecipe = prompt("How many times you want us to print your recipe");
 for (var i=0; i < numberofrecipe; i++);
 
 { if (recipe == 'A' || recipe == 'a'){ 
-  document.write('<img src="https://i.pinimg.com/236x/11/5a/f0/115af043a717b336e4a75231211d0155.jpg"/>');
+  ocument.write('<img src="https://i.pinimg.com/236x/11/5a/f0/115af043a717b336e4a75231211d0155.jpg"/>');
 } 
 
  else {
